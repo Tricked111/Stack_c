@@ -12,6 +12,7 @@ Stack * Stack_Create (){
     return stack;
 }
 
+//test
 ////////////////MAIN FUNCTION/////////////////
 void Stack_Init(Stack *stack){
     stack->top_index = 0;
